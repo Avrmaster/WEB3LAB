@@ -1,0 +1,22 @@
+.container {
+	margin-top: 20px;
+	margin-bottom: 20px;
+	flex-direction: row;
+}
+
+.title {
+	font-weight: bold;
+	margin: 0 auto;
+	padding: 1rem;
+	text-align: center;
+}
+
+
+.button-container input {
+	margin: 0 auto;
+	min-width: 20rem;
+}
+
+.error {
+	color: red;
+}
